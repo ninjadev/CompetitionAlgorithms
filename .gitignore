@@ -17,6 +17,8 @@
 .tmproj
 nbproject
 Thumbs.db
+.idea
+*.iml
 
 *.class
 
